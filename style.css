@@ -1,0 +1,16 @@
+h1,
+ h2,
+        ul{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+          h1 {
+            text-align: center;
+            color: bisque
+          }        
+        ul{
+            list-style-type: style square; ;
+        }
+        p{
+            color: brown;
+            text-align: justify;
+        }
